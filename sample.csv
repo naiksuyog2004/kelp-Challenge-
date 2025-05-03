@@ -1,0 +1,6 @@
+name.firstName,name.lastName,age,address.city,address.state,details.hobbies,details.skills
+Suyog,Naik,21,Mumbai,Maharashtra,Coding;Reading,JavaScript;Node.js
+Rahul,Sharma,45,Delhi,Delhi,Traveling;Cooking,Python;Django
+Neha,Verma,18,Pune,Maharashtra,Dancing;Gaming,C++;HTML
+Ajay,Kumar,35,Bangalore,Karnataka,Cycling;Singing,Java;Spring
+Sneha,Patil,62,Nagpur,Maharashtra,Yoga;Drawing,Go;Rust
